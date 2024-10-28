@@ -1,0 +1,63 @@
+  .h ul {
+    display: flex;
+    list-style-type: disc;
+    justify-content: space-between;
+    padding: 0;
+    margin: 0;
+  }
+
+  .h li {
+    margin-right: 20px;
+  }
+  
+  h1{
+    display: flex;
+    justify-content: center;
+  }
+
+  h2{
+    display: flex;
+    justify-content: center;
+    line-height: 0.7;
+  }
+
+
+  main, nav {
+    margin: 0 auto;
+    padding: 0;
+    max-width: 1024px;
+    font-size: 20px;
+  }
+
+  body{
+    margin: 0;
+    padding: 0;
+    background-color: #E8F5E9;
+  }
+  
+ .imagenCentrada {
+    display: flex;
+    justify-content: center;
+  }
+  .imagenCentrada img {
+    width: 500px;
+  }
+
+  .imgperro{
+    display: flex;
+    align-items: center;
+  }
+
+  .imglado{
+    width: 200px;
+    margin-right: 20px;
+  }
+
+  header, footer {
+    background-color: #E0F7FA;
+  }
+
+  main{
+    background-color: #E8F5E9;
+  }
+  
